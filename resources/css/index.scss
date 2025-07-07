@@ -1,0 +1,21 @@
+.page {
+
+    .icons {
+        display: flex;
+        gap: 10px;
+
+        a {
+            color: black;
+        }
+
+        i {
+            cursor: pointer;
+            margin: 0;
+        }
+    }
+
+    .filters {
+        margin: 5px;
+    }
+
+}
